@@ -19,7 +19,7 @@ Can view when I'm busy. https://support.microsoft.com/en-us/office/share-an-outl
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 
 - [ ] Click New Items > New Appointment.
-- [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
+- [x] Click Calendar > New Meeting, and then copy and paste information as needed.
 - [ ] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
@@ -250,11 +250,11 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] Reader
 - [ ] Author
 - [ ] Reviewer
-- [ ] Editor
+- [x] Editor
 
 #### 35. Why might you create an additional contacts folder?
 
-- [ ] To store contacts to share with colleagues
+- [x] To store contacts to share with colleagues
 - [ ] To avoid exceeding 500 contacts per folder limit
 - [ ] To make it faster to search for your contacts
 - [ ] All of these answers
